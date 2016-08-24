@@ -1,2 +1,2 @@
 # phpstorm-settings
-My PHPStorm Setting 
+My PHPStorm Setting, applicable to WebStorm 
